@@ -179,6 +179,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -240,6 +243,7 @@
     <option name="width" value="663" />
     <option name="height" value="739" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -446,12 +450,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544421094819</updated>
       <workItem from="1544421098550" duration="12998000" />
-      <workItem from="1544504495171" duration="17894000" />
+      <workItem from="1544504495171" duration="18161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30892000" />
+    <option name="totallyTimeSpent" value="31159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -466,12 +470,12 @@
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.0031496063" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.7574803" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.7574803" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.0015748031" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
